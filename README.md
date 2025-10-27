@@ -1,6 +1,9 @@
 # 🌀 HistoricHelix
 
 ---
+Here is a short video tutorial if you prever that:
+
+[![Watch the video](https://img.youtube.com/vi/FKD1xEGoTOM/maxresdefault.jpg)](https://www.youtube.com/watch?v=FKD1xEGoTOM)
 
 ## ⚙️ Streamerbot Integration
 
@@ -16,10 +19,10 @@
 3. **Paste the Code**  
    Paste the copied text from Step 1 into the text area.
 
-4. **Import Actions**  
+4. **Import Commands & Actions**  
    Click **Import** at the bottom of the import window.
 
-5. **Enable HH Actions & Commands**  
+5. **Enable HH Commands & Actions**  
    Make sure all *HistoricHelix* actions and commands are turned on.
 
 6. **Initialize Global Variables**  
@@ -40,7 +43,8 @@
 
 ## 🧩 After Setup
 
-- Enable the imported actions and commands.  
+- Enable the imported actions and commands.
+- (Note: It's recommended to restart streamerbot to verify the commands & actions are properly enabled)
 - Customize them if desired, or use defaults.  
 - Start the server from the **ChatPlays menu**.
 
@@ -60,8 +64,6 @@ Q allows you to bypass the 30 second rate limit for the same command.
 All commands can also be queued using `!q` / `q` with optional per-step delay. Example:
 `!q up 300 left right 1000 down`
 This means: `up`, wait 300 ms, `left`, `right`, wait 1000 ms, `down`.
-
-`say` can be sent inline in a queue too.
 
 ---
 
