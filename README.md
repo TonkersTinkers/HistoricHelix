@@ -74,7 +74,6 @@ In this mode, chat controls an assigned enemy ("rattler"). The game server (`all
 When Enemy Control is enabled:
 - movement commands go to the enemy
 - `/say` displays a speech bubble and tags your name
-- score is tracked per user
 
 ### Movement
 
@@ -209,6 +208,3 @@ Queued player commands will only execute if Player Control is enabled and you ar
 - `!join` may be required depending on streamer settings.
 
 - Player Control mode exists, but it's off in most streams. If it's on and you're the chosen player, you also get access to `submit`, `cancel`, `zoomin`, `zoomout`, `panup`, etc.
-
-This section should be placed under "List of Commands" in the main README.
-
