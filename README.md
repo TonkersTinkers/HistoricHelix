@@ -1,10 +1,10 @@
 # 🌀 HistoricHelix
 
 ---
-Here is a short video tutorial if you prever that:
 
-[![Watch the video](https://img.youtube.com/vi/FKD1xEGoTOM/maxresdefault.jpg)](https://www.youtube.com/watch?v=FKD1xEGoTOM)
+▶️ [Optionally Watch the setup guide on YouTube](https://www.youtube.com/watch?v=FKD1xEGoTOM)
 
+---
 ## ⚙️ Streamerbot Integration
 
 ### One-Time Setup Requirements
